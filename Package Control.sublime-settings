@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"CodeKit",
+		"Color Highlighter",
+		"CSS3",
+		"EditorConfig",
+		"Emmet",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal",
+		"W3CValidators"
+	]
+}

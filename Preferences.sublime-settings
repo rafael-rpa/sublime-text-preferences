@@ -1,0 +1,37 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Monokai Extended/Monokai Extended Bright.tmTheme",
+	"default_encoding": "UTF-8",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".sass-cache"
+	],
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
