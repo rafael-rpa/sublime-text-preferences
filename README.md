@@ -27,7 +27,7 @@ All my Sublime Text 3 packages and preferences are synced in this repository.
 [CSS3](https://packagecontrol.io/packages/CSS3)  
 [EditorConfig](https://packagecontrol.io/packages/EditorConfig)  
 [Emmet](https://packagecontrol.io/packages/Emmet)  
-[HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)
+[HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify)  
 [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)  
 [Monokai Extended](https://packagecontrol.io/packages/Monokai%20Extended)  
 [PackageResourceViewer](https://packagecontrol.io/packages/PackageResourceViewer)  
