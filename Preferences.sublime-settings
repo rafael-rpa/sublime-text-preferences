@@ -24,11 +24,12 @@
 		"node_modules",
 		".sass-cache"
 	],
+	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"CSS",
-		"Vintage"
+		"Vintage",
+		"CSS"
 	],
 	"show_encoding": true,
 	"tab_size": 4,
