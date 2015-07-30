@@ -32,7 +32,7 @@ All my Sublime Text 3 packages and preferences are synced in this repository.
 [Monokai Extended](https://packagecontrol.io/packages/Monokai%20Extended)  
 [PackageResourceViewer](https://packagecontrol.io/packages/PackageResourceViewer)  
 [Sass](https://packagecontrol.io/packages/Sass)  
-[Select Quoted](https://packagecontrol.io/packages/Select%20Quoted)
+[Select Quoted](https://packagecontrol.io/packages/Select%20Quoted)  
 [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements)  
 [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)  
 [Terminal](https://packagecontrol.io/packages/Terminal)  
