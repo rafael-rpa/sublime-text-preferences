@@ -28,8 +28,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"CSS"
+		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*.sql"
 	],
 	"show_encoding": true,
 	"tab_size": 4,
