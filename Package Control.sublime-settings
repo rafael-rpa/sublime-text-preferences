@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,12 +8,10 @@
 		"AutoFileName",
 		"CodeKit",
 		"Color Highlighter",
-		"CSS3",
 		"EditorConfig",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"Markdown Preview",
-		"Monokai Extended",
 		"Package Control",
 		"PackageResourceViewer",
 		"Sass",
